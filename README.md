@@ -16,3 +16,5 @@ Study
         }
         startActivity(intent)
     }
+
+<span style="color:red">editText</span>
